@@ -38,7 +38,7 @@
   </a>
   &emsp;
   <a>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-orange">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-orange">
   </a>
 </p>
 
