@@ -37,6 +37,9 @@
     <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
   </a>
   &emsp;
+  <a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-orange">
+  </a>
 </p>
 
 
