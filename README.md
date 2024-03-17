@@ -38,7 +38,7 @@
   </a>
   &emsp;
   <a>
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-orange">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-%23FF2D20?labelColor=%23FF2D20">
   </a>
 </p>
 
@@ -57,7 +57,7 @@
   <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
       alt="Viral Bhadeshiya" height="30" width="auto" /></a>
-</p>-->
+</p>
 
 -----
 <p align="center">
@@ -67,3 +67,4 @@
   <br>
   <br>
  </p>
+-->
