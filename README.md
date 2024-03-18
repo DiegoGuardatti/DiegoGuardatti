@@ -39,7 +39,11 @@
   </a>
   &emsp;
   <a>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-%23FF2D20?labelColor=%23FF2D20">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20?labelColor=%23FF2D20">
+  </a>
+   &emsp;
+  <a>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?logo=%234479A1">
   </a>
 </p>
 
